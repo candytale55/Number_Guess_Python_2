@@ -33,7 +33,7 @@ To simulate dice rolls: we imported the _sleep_ function from the _time_ module 
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./screenshot.png)
 
 ## Technologies
 * Python 2 - Probably will also work for Python 3
